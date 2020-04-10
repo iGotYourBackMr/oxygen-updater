@@ -5,28 +5,28 @@
 	<string name="app_name">"Oxygen Updater"</string>
 	<string name="launcher_app_name">"Oxygen Updater"</string>
 
-	<!-- TODO: translate this string below -->
-	<string name="device_chooser_error_title">Couldn\'t retrieve list of supported devices</string>
+	
+	<string name="device_chooser_error_title">Hittade inga enheter som stöds</string>
 
 	<!-- Update information strings -->
 	<string name="update">"Uppdatera"</string>
-	<!-- TODO: translate this string below -->
-	<string name="enable">Enable</string>
+	
+	<string name="enable">Aktivera</string>
 	<string name="update_information_file_name">"Filnamn: %1$s"</string>
 	<!-- TODO: translate this line below -->
 	<string name="update_information_md5">MD5: %1$s</string>
-	<!-- TODO: Translate this string below -->
-	<string name="update_information_download_link">Since there was a download error, and the download must be restarted, you can use this link to download the update file from a browser instead. You might have to move the downloaded file from the \"Downloads\" directory to its parent directory. This is the same link the app uses to download, which is an official OnePlus OTA server link:\n%1$s</string>
+	
+	<string name="update_information_download_link">Eftersom det blev fel i nedladdningen, så kommer nedladdningen startas om, du kan använda länken för att manuellt ladda ner uppdateringen via en webbläsare. Du kommer säkert behöva flytta den nedladdade filen från \"Nedladdningar\" mappen till dess överordnade mappen. Detta är samma länk som appen laddar ner, vilket är en officiell länk från OnePlus OTA servrar:\n%1$s</string>
 	<string name="update_information_for">"för"</string>
 	<string name="update_information_header">"Uppdatering"</string>
 	<string name="update_information_header_short">"Uppdatering"</string>
-	<!-- TODO: translate these 7 strings below -->
-	<string name="update_information_error_title">Couldn\'t retrieve latest update data information</string>
-	<string name="update_information_banner_server">Tap here to view important notices</string>
-	<string name="update_information_banner_already_latest">You\'re already on the latest OxygenOS version</string>
-	<string name="update_information_banner_congrats_latest">Congrats! Your device is on the latest OxygenOS version</string>
-	<string name="update_information_banner_update_available">A new system update is available: %1$s</string>
-	<string name="update_information_header_advanced_mode_helper">Since you\'ve enabled advanced mode, you can download the latest ZIP for \"%1$s\".\n\nYou can turn advanced mode off from settings</string>
+	
+	<string name="update_information_error_title">Det gick inte att hämta den senaste informationen om uppdateringen</string>
+	<string name="update_information_banner_server">Klicka här för att se viktiga meddelanden</string>
+	<string name="update_information_banner_already_latest">Du har redan den senaste OxygenOS versionen</string>
+	<string name="update_information_banner_congrats_latest">Woho! Din enhet är redan på den senaste OxygenOS versionen</string>
+	<string name="update_information_banner_update_available">En ny systemuppdatering är tillgänglig: %1$s</string>
+	<string name="update_information_header_advanced_mode_helper">Eftersom du har aktiverat avancerat läge kan du ladda ner den senaste ZIP filen för \"%1$s\".\n\nDu kan stänga av avancerat läge från inställningarna</string>
 	<string name="update_information_different_version_changelog_notice">You\'re viewing a changelog for the latest update in the \"%1$s\" upgrade track. If you intend to install this update, you must turn advanced mode on first (in settings).\n\nHowever, if you wish to see the changelog for the currently installed version instead, you\'ll need to switch back to the correct update method.</string>
 	<string name="update_information_last_checked_on">"Kollade senast den: %1$s"</string>
 	<string name="update_information_latest_available_update">"En ny systemuppdatering är tillgänglig"</string>
